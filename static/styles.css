@@ -1,0 +1,21 @@
+body {
+    background-image: url('../static/fondo3.jpg'); /* Ruta a la imagen */
+    background-size: cover; /* Asegura que la imagen cubra todo el fondo */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    height: 100vh; /* Asegura que el fondo cubra toda la altura de la ventana */
+    /*color: white;  Cambia el color del texto si es necesario */
+}
+.form-container {
+    background-color: white; /* Fondo blanco para el formulario */
+    padding: 20px; /* Espaciado interno */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para un efecto elevado */
+}
+.table-container {
+    background-color: white; /* Fondo blanco para la tabla */
+    padding: 20px; /* Espaciado interno */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para un efecto elevado */
+    margin-top: 20px; /* Espacio arriba de la tabla */
+}
